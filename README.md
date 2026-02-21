@@ -1,5 +1,5 @@
 # AnimeNewsScraper
-A News App for Anime
+A News App for Anime (Update coming Feburary 21st, 2026).
 
 ## Home page
 ![image](https://github.com/InfernoCycle/AnimeNewsScraper/assets/105338348/645c0663-8094-4328-810f-2af7b1ae141e)
